@@ -1,1 +1,1 @@
-# TDS_exercicios_logica_programacao
+## LOGICA DE PROGRAMAÇÃO - RESOLUÇÃO EXERCICIOS
